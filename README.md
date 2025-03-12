@@ -12,7 +12,7 @@ Due to storage limitations, **most of the raw data is not included** in this rep
 - Other subdirectories may contain supporting scripts or documentation.
 
 ## Citation
-If you use this data, please cite the corresponding paper:
+If you use this data, please cite the corresponding paper
 ```
 @article{rey2025,
 	author={Anthony Rey and Ömer M. Aksoy and Daniel P. Arovas and Claudio Chamon and Christopher Mudry},
