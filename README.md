@@ -1,6 +1,6 @@
 # Data Repository for Preprint Paper
 
-This repository contains the **analyzed data** corresponding to the preprint paper available at:
+This repository contains the **analyzed data** corresponding to the preprint paper available at
 
 📄 [arXiv:2502.14958](https://doi.org/10.48550/arXiv.2502.14958)
 
